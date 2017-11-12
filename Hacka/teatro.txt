@@ -1,0 +1,5 @@
+Carignano-Centro-null-null-null-null-null- Lunedì Mercoledì Venerdì Sabato
+Gianduja-Centro-null-null-null-null-null- Martedì Mercoledì Giovedì Sabato
+Panna-Crocetta-null-null-null-null-null- Lunedì Mercoledì Giovedì Domenica
+Alfieri-Centro-null-null-null-null-null- Lunedì Martedì Mercoledì Venerdì Domenica
+Gioiello-Crocetta-null-null-null-null-null- Martedì Giovedì Venerdì Domenica

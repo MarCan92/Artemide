@@ -1,0 +1,5 @@
+CAP 10100-Borgo Crimea-18-00-23-30-null-null
+Hiroshima-Lingotto-19-30-24-00-null-null
+Officine ferroviarie-San Salvario-19-00-24-00-null-null
+Jazz Club-Centro-18-15-23-50-null-null
+Blah Blah-Centro-19-00-23-45-null-null
